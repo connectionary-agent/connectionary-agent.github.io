@@ -18,6 +18,53 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 
+<h1 id="action-items">Action items</h1>
+
+<ul>
+<li>
+	hold engineering meeting
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by S
+	</li>
+	<li>
+		due: 18-Jan-2025
+	</li>
+	</ul>
+</li>
+<li>
+	create entity
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by J
+	</li>
+	<li>
+		due: ??
+	</li>
+	</ul>
+</li>
+<li>
+	create entity
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by J
+	</li>
+	<li>
+		due: ??
+	</li>
+	</ul>
+</li>
+</ul>
+
 <h1 id="meetings">Meetings</h1>
 
 <h2 id="01">The 1st meeting @ Grand Lux Cafe on 07-Jan-2025</h2>
@@ -84,37 +131,3 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</ul>
 </li>
 </ul>
-
-<h1 id="action-items">Action items</h1>
-
-<ul>
-<li>
-	engineering meeting
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by S
-	</li>
-	<li>
-		due: 18-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
-	create entity
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by J
-	</li>
-	<li>
-		due: ??
-	</li>
-	</ul>
-</li>
-</ul>
-
