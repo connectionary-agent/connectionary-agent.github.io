@@ -1,14 +1,14 @@
 ---
 layout: single
 author_profile: true
-title: AegisData.AI
+title: Connectionary.AI
 toc: false
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
 ---
 
-<h1 id="intro">Intro</h1>
+<!--h1 id="intro">Intro</h1-->
 
 <p>
 Welcome to Connectionary.AI! We redefine the landscape of market research by harnessing the power of AI to deliver unparalleled insights to startups and large corporations alike. Our AI agents delve deep into market trends, consumer behaviors, and competitive landscapes, providing you with the intelligence needed to make strategic decisions confidently. Whether you're launching a new product or expanding into new markets, our consultations are designed to match, if not exceed, the quality of industry giants like McKinsey, but with enhanced depth, accuracy, and at a fraction of the cost.
@@ -19,6 +19,15 @@ At Connectionary.AI, we understand that every business decision is critical, and
 <p>
 Our commitment to cost-effectiveness without compromising on quality sets us apart. By automating complex data analysis, we provide high-caliber consulting services that were previously out of reach for many due to cost barriers. From startups on the brink of market entry to established enterprises seeking to maintain their edge, Connectionary.AI offers bespoke solutions that resonate with your unique business objectives. Start your journey with us today and experience how our AI-driven market research can transform your strategic planning, streamline your operations, and catalyze your success.
 </p>
+
+<h1 id="recent-posts">Recent Posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
+		</li>
+	{% endfor %}
+</ul>
 
 <div class="img-container">
 	<img src="/assets/images/female-ai-agent.png">
@@ -124,13 +133,3 @@ At Connectionary.AI, we combine the precision of top-tier consulting firms with 
 <p>
 Whether you're a small startup looking to disrupt an industry or a large corporation seeking to maintain your competitive edge, Connectionary.AI is your partner in navigating the complex world of market research. We offer the depth and quality of analysis you'd expect from elite consulting firms, but with greater speed, broader scope, and at a fraction of the cost[1][6]. With Connectionary.AI, you'll gain the insights you need to make informed decisions, identify new opportunities, and stay ahead in today's rapidly evolving business landscape.
 </p-->
-
-
-<!--h1 id="recent-posts">Recent Posts</h1>
-<ul>
-	{% for post in site.posts limit:10 %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
-		</li>
-	{% endfor %}
-</ul-->

@@ -1,14 +1,14 @@
 main:
   - title: "About"
     url: /about
-  - title: "Candidates"
-    url: /candidates
+  - title: "Blog"
+    url: /posts
+#  - title: "Candidates"
+#    url: /candidates
 #  - title: "News"
 #    url: /news
 #  - title: "Technology"
 #    url: /technology
-#  - title: "Blog"
-#    url: /posts
 #  - title: "Team"
 #    url: /team
 #  - title: "Tags"
