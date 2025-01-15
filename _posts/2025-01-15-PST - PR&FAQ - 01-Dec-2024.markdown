@@ -17,8 +17,6 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-December 1, 2025
-
 <h1 id="pr">Press Release</h1>
 
 <!--For Immediate Release-->
