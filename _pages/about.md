@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Connectionary.AI]({{ site.baseurl }}) redefines the landscape of market research by harnessing the power of AI to deliver unparalleled insights
+[Connectionary.AI](/) redefines the landscape of market research by harnessing the power of AI to deliver unparalleled insights
 to startups and large corporations alike.
 Our AI agents delve deep into market trends, consumer behaviors, and competitive landscapes, providing you
 with the intelligence needed to make strategic decisions confidently.
