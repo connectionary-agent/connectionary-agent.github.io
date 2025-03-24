@@ -4,8 +4,6 @@ permalink: /meetings/
 title: Meetings
 date: Mon Jan 13 01:41:39 PST 2025
 last_modified_at: Mon Jan 13 01:41:39 PST 2025
-categories:
- - blog
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
