@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#f9f9f9"/>
+  
+  <!-- Title -->
+  <text x="500" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a73e8">
+  Biotech Market Intelligence Framework
+  </text>
+  
+  <!-- Main Sections -->
+  <!-- Market Assessment -->
+  <rect x="50" y="85" width="200" height="100" rx="10" fill="#e1f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Market Assessment</text>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• TAM: $45.2B</text>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• SAM: $12.8B</text>
+  <text x="150" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• CAGR: 14.3%</text>
+  
+  <!-- Competitor Analysis -->
+  <rect x="400" y="85" width="200" height="100" rx="10" fill="#e1f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="500" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Competitor Analysis</text>
+  <text x="500" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• 5 Major Players</text>
+  <text x="500" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• 12 Emerging Startups</text>
+  <text x="500" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Tech/Patent Map</text>
+  
+  <!-- Regulatory Landscape -->
+  <rect x="750" y="85" width="200" height="100" rx="10" fill="#e1f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="850" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Regulatory Landscape</text>
+  <text x="850" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• FDA Approval Paths</text>
+  <text x="850" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Global Compliance</text>
+  <text x="850" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Policy Forecasting</text>
+  
+  <!-- Customer Segments -->
+  <rect x="150" y="230" width="300" height="140" rx="10" fill="#d4e9d7" stroke="#28a745" stroke-width="2"/>
+  <text x="275" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Customer Segments</text>
+  
+  <!-- Customer Segment Columns -->
+  <text x="180" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold">segment</text>
+  <text x="310" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold">value</text>
+  <text x="375" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold">growth</text>
+  
+  <line x1="165" y1="295" x2="435" y2="295" stroke="#28a745" stroke-width="1"/>
+  
+  <!-- Customer Segment Data -->
+  <text x="180" y="315" font-family="Arial, sans-serif" font-size="12">Hospitals</text>
+  <text x="310" y="315" font-family="Arial, sans-serif" font-size="12">$3,450MM</text>
+  <text x="380" y="315" font-family="Arial, sans-serif" font-size="12">+8.2%</text>
+  
+  <text x="180" y="335" font-family="Arial, sans-serif" font-size="12">Research Labs</text>
+  <text x="310" y="335" font-family="Arial, sans-serif" font-size="12">$2,780MM</text>
+  <text x="380" y="335" font-family="Arial, sans-serif" font-size="12">+12.5%</text>
+  
+  <text x="180" y="355" font-family="Arial, sans-serif" font-size="12">Pharma Companies</text>
+  <text x="310" y="355" font-family="Arial, sans-serif" font-size="12">$5,120MM</text>
+  <text x="380" y="355" font-family="Arial, sans-serif" font-size="12">+18.7%</text>
+  
+  <!-- Market Strategy Options -->
+  <rect x="600" y="230" width="300" height="140" rx="10" fill="#fee8e1" stroke="#dc3545" stroke-width="2"/>
+  <text x="750" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Market Strategy Options</text>
+  
+  <!-- Strategy Options -->
+  <rect x="620" y="265" width="260" height="25" rx="5" fill="#ffd5cc" stroke="#dc3545" stroke-width="1"/>
+  <text x="750" y="282.5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Research Partnership Model</text>
+  
+  <rect x="620" y="300" width="260" height="25" rx="5" fill="#ffd5cc" stroke="#dc3545" stroke-width="1"/>
+  <text x="750" y="317.5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Hospital System Integration Focus</text>
+  
+  <rect x="620" y="335" width="260" height="25" rx="5" fill="#ffd5cc" stroke="#dc3545" stroke-width="1"/>
+  <text x="750" y="352.5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Pharma Licensing Strategy</text>
+  
+  <!-- CACIN Insight Engine -->
+  <rect x="305" y="420" width="390" height="80" rx="10" fill="#e0e7ff" stroke="#4267b2" stroke-width="3"/>
+  <text x="500" y="450" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">CACIN Insight Engine</text>
+  <text x="500" y="475" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Adaptive Knowledge Graph + Industry Expert Network + AI Agents</text>
+  
+  <!-- Recommendations -->
+  <rect x="250" y="530" width="500" height="50" rx="10" fill="#ffebc9" stroke="#fd7e14" stroke-width="2"/>
+  <text x="500" y="560" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Actionable Recommendations &amp; Implementation Roadmap</text>
+  
+  <!-- Connecting Arrows -->
+  <!-- Top row to middle row -->
+  <path d="M150 185 L150 210 L275 210 L275 230" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M500 185 L500 210 L275 210 L275 230" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M850 185 L850 210 L750 210 L750 230" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Middle row to CACIN -->
+  <path d="M275 370 L275 400 L500 400 L500 420" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M750 370 L750 400 L500 400 L500 420" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- CACIN to Recommendations -->
+  <path d="M500 500 L500 530" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow Definitions -->
+  <defs>
+    <marker id="arrowhead" markerWidth="6" markerHeight="4" 
+    refX="6" refY="2" orient="auto">
+      <polygon points="0 0, 6 2, 0 4" fill="#333"/>
+    </marker>
+  </defs>
+</svg>
