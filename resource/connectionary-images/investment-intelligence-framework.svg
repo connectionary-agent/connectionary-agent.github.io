@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#f9f9f9"/>
+  
+  <!-- Title -->
+  <text x="500" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a73e8">
+  Investment Intelligence Framework
+  </text>
+  
+  <!-- Main Sections -->
+  <!-- Market & Company Assessment -->
+  <rect x="50" y="90" width="200" height="110" rx="10" fill="#e1f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Investment Inputs</text>
+  <text x="150" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Startup Pitch Decks</text>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Financial Statements</text>
+  <text x="150" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Team Background</text>
+  <text x="150" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Technology Claims</text>
+  
+  <!-- Market Validation -->
+  <rect x="400" y="90" width="200" height="110" rx="10" fill="#e1f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="500" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Market Validation</text>
+  <text x="500" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Addressable Market Size</text>
+  <text x="500" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Competitive Landscape</text>
+  <text x="500" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Regulatory Environment</text>
+  <text x="500" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Growth Trajectory Analysis</text>
+  
+  <!-- Growth Opportunities -->
+  <rect x="750" y="90" width="200" height="110" rx="10" fill="#e1f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="850" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Growth Opportunities</text>
+  <text x="850" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Market Expansion Vectors</text>
+  <text x="850" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Partnership Potentials</text>
+  <text x="850" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Technology Integration</text>
+  <text x="850" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Exit Scenario Modeling</text>
+  
+  <!-- Risk Assessment -->
+  <rect x="150" y="230" width="300" height="140" rx="10" fill="#fee8e1" stroke="#dc3545" stroke-width="2"/>
+  <text x="300" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Risk Assessment Matrix</text>
+  
+  <!-- Risk Assessment Columns -->
+  <text x="180" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold">risk factor</text>
+  <text x="300" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold">chance</text>
+  <text x="380" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold">impact</text>
+  
+  <line x1="165" y1="290" x2="435" y2="290" stroke="#dc3545" stroke-width="1"/>
+  
+  <!-- Risk Assessment Data -->
+  <text x="180" y="310" font-family="Arial, sans-serif" font-size="12">Market Timing</text>
+  <text x="300" y="310" font-family="Arial, sans-serif" font-size="12">Medium</text>
+  <text x="380" y="310" font-family="Arial, sans-serif" font-size="12">High</text>
+  
+  <text x="180" y="330" font-family="Arial, sans-serif" font-size="12">Tech Feasibility</text>
+  <text x="300" y="330" font-family="Arial, sans-serif" font-size="12">Low</text>
+  <text x="380" y="330" font-family="Arial, sans-serif" font-size="12">High</text>
+  
+  <text x="180" y="350" font-family="Arial, sans-serif" font-size="12">Team Execution</text>
+  <text x="300" y="350" font-family="Arial, sans-serif" font-size="12">Low</text>
+  <text x="380" y="350" font-family="Arial, sans-serif" font-size="12">Medium</text>
+  
+  <!-- Valuation Model -->
+  <rect x="550" y="230" width="300" height="140" rx="10" fill="#d4e9d7" stroke="#28a745" stroke-width="2"/>
+  <text x="700" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Valuation Analysis</text>
+  
+  <!-- Valuation Model Data -->
+  <rect x="570" y="265" width="260" height="25" rx="5" fill="#c8e6cb" stroke="#28a745" stroke-width="1"/>
+  <text x="700" y="282.5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Comparables: $25-35M (3.5-5x ARR)</text>
+  
+  <rect x="570" y="300" width="260" height="25" rx="5" fill="#c8e6cb" stroke="#28a745" stroke-width="1"/>
+  <text x="700" y="317.5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">DCF Model: $28-32M (10% discount rate)</text>
+  
+  <rect x="570" y="335" width="260" height="25" rx="5" fill="#c8e6cb" stroke="#28a745" stroke-width="1"/>
+  <text x="700" y="352.5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Recommended Pre-Money: $27-30M</text>
+  
+  <!-- CACIN Insight Engine -->
+  <rect x="305" y="420" width="390" height="80" rx="10" fill="#e0e7ff" stroke="#4267b2" stroke-width="3"/>
+  <text x="500" y="450" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">CACIN Insight Engine</text>
+  <text x="500" y="475" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Adaptive Knowledge Graph + Industry Expert Network + AI Agents</text>
+  
+  <!-- Investment Recommendations -->
+  <rect x="250" y="530" width="500" height="50" rx="10" fill="#ffebc9" stroke="#fd7e14" stroke-width="2"/>
+  <text x="500" y="560" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Investment Recommendations &amp; Due Diligence Report</text>
+  
+  <!-- Connecting Arrows -->
+  <!-- Top row to middle row -->
+  <path d="M150 200 L150 215 L300 215 L300 230" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M500 200 L500 215 L300 215 L300 230" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M850 200 L850 215 L700 215 L700 230" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Middle row to CACIN -->
+  <path d="M300 370 L300 400 L500 400 L500 420" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M700 370 L700 400 L500 400 L500 420" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- CACIN to Recommendations -->
+  <path d="M500 500 L500 530" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow Definitions -->
+  <defs>
+    <marker id="arrowhead" markerWidth="6" markerHeight="4" 
+    refX="6" refY="2" orient="auto">
+      <polygon points="0 0, 6 2, 0 4" fill="#333"/>
+    </marker>
+  </defs>
+</svg>
