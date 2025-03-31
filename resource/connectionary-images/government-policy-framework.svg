@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 550">
+  <!-- Background -->
+  <rect width="1000" height="550" fill="#f9f9f9"/>
+
+  <!-- Title -->
+  <text x="500" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#003366">Connectionary.ai Government S&amp;T Policy Intelligence Framework</text>
+
+  <!-- Top Row - Policy Context -->
+  <rect x="40" y="60" width="920" height="110" rx="10" fill="#e6f0fa" stroke="#003366" stroke-width="2"/>
+  <text x="500" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#003366">Science &amp; Technology Policy Context</text>
+
+  <!-- Context Boxes -->
+  <rect x="60" y="100" width="210" height="55" rx="5" fill="#d1e6f9" stroke="#003366" stroke-width="1"/>
+  <text x="165" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Global Innovation Trends</text>
+  <text x="165" y="140" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">International S&amp;T Policy Benchmarking</text>
+
+  <rect x="290" y="100" width="210" height="55" rx="5" fill="#d1e6f9" stroke="#003366" stroke-width="1"/>
+  <text x="395" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">National R&amp;D Landscape</text>
+  <text x="395" y="140" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Current Programs &amp; Investment Patterns</text>
+
+  <rect x="520" y="100" width="210" height="55" rx="5" fill="#d1e6f9" stroke="#003366" stroke-width="1"/>
+  <text x="625" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Industry Capabilities</text>
+  <text x="625" y="140" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Private Sector Strengths &amp; Gaps</text>
+
+  <rect x="750" y="100" width="190" height="55" rx="5" fill="#d1e6f9" stroke="#003366" stroke-width="1"/>
+  <text x="845" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Societal Challenges</text>
+  <text x="845" y="140" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Public Needs &amp; Future Problems</text>
+
+  <!-- Middle Left - Policy Analysis -->
+  <rect x="40" y="190" width="450" height="220" rx="10" fill="#e8f2ee" stroke="#006633" stroke-width="2"/>
+  <text x="265" y="215" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#006633">Policy Analysis</text>
+
+  <!-- Policy Analysis Content -->
+  <rect x="50" y="230" width="240" height="170" rx="5" fill="#d6ede6" stroke="#006633" stroke-width="1"/>
+  <text x="170" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Emerging Technology Assessment</text>
+
+  <!-- Emerging Tech Table -->
+  <text x="65" y="275" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Technology</text>
+  <text x="170" y="275" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Readiness</text>
+  <text x="230" y="275" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Impact</text>
+
+  <line x1="60" y1="280" x2="280" y2="280" stroke="#006633" stroke-width="1"/>
+
+  <text x="65" y="295" font-family="Arial, sans-serif" font-size="10">Quantum Computing</text>
+  <text x="170" y="295" font-family="Arial, sans-serif" font-size="10">TRL 4-5</text>
+  <text x="230" y="295" font-family="Arial, sans-serif" font-size="10">High</text>
+
+  <text x="65" y="315" font-family="Arial, sans-serif" font-size="10">Advanced AI</text>
+  <text x="170" y="315" font-family="Arial, sans-serif" font-size="10">TRL 6-7</text>
+  <text x="230" y="315" font-family="Arial, sans-serif" font-size="10">High</text>
+
+  <text x="65" y="335" font-family="Arial, sans-serif" font-size="10">Gene Editing</text>
+  <text x="170" y="335" font-family="Arial, sans-serif" font-size="10">TRL 7-8</text>
+  <text x="230" y="335" font-family="Arial, sans-serif" font-size="10">High</text>
+
+  <text x="65" y="355" font-family="Arial, sans-serif" font-size="10">Green Hydrogen</text>
+  <text x="170" y="355" font-family="Arial, sans-serif" font-size="10">TRL 5-6</text>
+  <text x="230" y="355" font-family="Arial, sans-serif" font-size="10">Medium</text>
+
+  <text x="65" y="375" font-family="Arial, sans-serif" font-size="10">Advanced Materials</text>
+  <text x="170" y="375" font-family="Arial, sans-serif" font-size="10">TRL 6-7</text>
+  <text x="230" y="375" font-family="Arial, sans-serif" font-size="10">Medium</text>
+
+  <!-- Investment Gap Analysis -->
+  <rect x="300" y="230" width="170" height="170" rx="5" fill="#d6ede6" stroke="#006633" stroke-width="1"/>
+  <text x="375" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Gap Analysis</text>
+
+  <!-- Gap Analysis Chart (simple bar representation) -->
+  <text x="310" y="270" font-family="Arial, sans-serif" font-size="10">Global Position vs. Investment</text>
+
+  <text x="310" y="295" font-family="Arial, sans-serif" font-size="10">Computing</text>
+  <rect x="365" y="287" width="30" height="10" fill="#006633"/>
+  <rect x="380" y="287" width="70" height="10" fill="#ccc"/>
+
+  <text x="310" y="315" font-family="Arial, sans-serif" font-size="10">Biotech</text>
+  <rect x="365" y="307" width="50" height="10" fill="#006633"/>
+  <rect x="400" y="307" width="50" height="10" fill="#ccc"/>
+
+  <text x="310" y="335" font-family="Arial, sans-serif" font-size="10">Energy</text>
+  <rect x="365" y="327" width="20" height="10" fill="#006633"/>
+  <rect x="370" y="327" width="80" height="10" fill="#ccc"/>
+
+  <text x="310" y="355" font-family="Arial, sans-serif" font-size="10">Robotics</text>
+  <rect x="365" y="347" width="60" height="10" fill="#006633"/>
+  <rect x="410" y="347" width="40" height="10" fill="#ccc"/>
+
+  <text x="310" y="375" font-family="Arial, sans-serif" font-size="10">Space Tech</text>
+  <rect x="365" y="367" width="40" height="10" fill="#006633"/>
+  <rect x="390" y="367" width="60" height="10" fill="#ccc"/>
+
+  <text x="335" y="390" font-family="Arial, sans-serif" font-size="8">Current Capability</text>
+  <text x="410" y="390" font-family="Arial, sans-serif" font-size="8">Investment Gap</text>
+
+  <!-- Middle Right - Strategic Recommendations -->
+  <rect x="510" y="190" width="450" height="220" rx="10" fill="#f9f0e8" stroke="#994c00" stroke-width="2"/>
+  <text x="735" y="215" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#994c00">Strategic Recommendations</text>
+
+  <!-- Recommendations -->
+  <rect x="525" y="222.5" width="420" height="180" rx="5" fill="#f6e6d6" stroke="#994c00" stroke-width="1"/>
+
+  <!-- Policy Initiatives -->
+  <text x="735" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Recommended Policy Initiatives</text>
+
+  <rect x="535" y="250" width="190" height="45" rx="3" fill="#fff" stroke="#994c00" stroke-width="1"/>
+  <text x="630" y="270" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Quantum R&amp;D Acceleration</text>
+  <text x="630" y="285" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">$500M Investment | High ROI | 2025-2030</text>
+
+  <rect x="535" y="300" width="190" height="45" rx="3" fill="#fff" stroke="#994c00" stroke-width="1"/>
+  <text x="630" y="320" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Green Tech Incubation Program</text>
+  <text x="630" y="335" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">$350M Investment | Medium ROI | 2025-2028</text>
+
+  <rect x="745" y="250" width="190" height="45" rx="3" fill="#fff" stroke="#994c00" stroke-width="1"/>
+  <text x="840" y="270" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">AI Governance Framework</text>
+  <text x="840" y="285" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Regulatory + Investment | High Priority | 2025</text>
+
+  <rect x="745" y="300" width="190" height="45" rx="3" fill="#fff" stroke="#994c00" stroke-width="1"/>
+  <text x="840" y="320" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Biotech Ethics Commission</text>
+  <text x="840" y="335" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Public-Private Partnership | Critical | 2025</text>
+
+  <!-- Timeline -->
+  <text x="735" y="365" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Prioritized Implementation Timeline</text>
+
+  <line x1="570" y1="395" x2="900" y2="395" stroke="#994c00" stroke-width="2"/>
+
+  <circle cx="600" cy="395" r="5" fill="#994c00"/>
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Q2 2025</text>
+
+  <circle cx="690" cy="395" r="5" fill="#994c00"/>
+  <text x="690" y="380" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Q4 2025</text>
+
+  <circle cx="780" cy="395" r="5" fill="#994c00"/>
+  <text x="780" y="380" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Q2 2026</text>
+
+  <circle cx="870" cy="395" r="5" fill="#994c00"/>
+  <text x="870" y="380" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Q1 2027</text>
+
+  <!-- CACIN Tech Box -->
+  <rect x="190" y="430" width="620" height="80" rx="10" fill="#e7e7f5" stroke="#4d4d99" stroke-width="3"/>
+  <text x="500" y="455" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#4d4d99">CACIN Technology Platform</text>
+  <text x="500" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Leveraging our proprietary Connectionary Adaptive Cognitive Insight Network to analyze</text>
+  <text x="500" y="495" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">global S&amp;T developments, national innovation ecosystems, and policy effectiveness</text>
+
+  <!-- Connecting Arrows -->
+  <!-- Context to Analysis -->
+  <path d="M165 170 L165 190" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M395 170 L395 190" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M625 170 L625 190" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M845 170 L845 190" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Analysis to Recommendations -->
+  <path d="M490 310 L510 310" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Analysis+Recommendations to CACIN -->
+  <path d="M265 410 L265 430" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M735 410 L735 430" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Arrow Definitions -->
+  <defs>
+    <marker id="arrowhead" markerWidth="6" markerHeight="4"
+    refX="6" refY="2" orient="auto">
+      <polygon points="0 0, 6 2, 0 4" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Bottom Note -->
+  <text x="500" y="530" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle">Enabling evidence-based policy decisions through comprehensive data analysis and expert insights</text>
+</svg>
