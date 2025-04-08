@@ -16,7 +16,7 @@
 
 repository: connectionary-agent/connectionary-agent.github.io
 
-title: Connectionary.ai
+title: Connectionary.io
 email: cdjs.pkly@gmail.com
 description: Market Research AI Agent
 #twitter_username: username
@@ -61,7 +61,7 @@ plugins:
 
 # Site Author
 author:
-  name             : "Connectionary.ai"
+  name             : "Connectionary.io"
   avatar           : "/assets/images/ai-witch.png"
   bio              : ""
 #  location         : "Silicon Valley"
